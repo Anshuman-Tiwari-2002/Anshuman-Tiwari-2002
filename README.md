@@ -30,7 +30,7 @@
 </p>
 
 <p align="center">
-  <a href="https://abc/My-Portfolio/"><img src="https://img.shields.io/badge/My_Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white "target="_blank" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://anshumantiwari/My-Portfolio/"><img src="https://img.shields.io/badge/My_Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white "target="_blank" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://medium.com/@anshumant111"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white " target="_blank" /></a>
 </p>
 
