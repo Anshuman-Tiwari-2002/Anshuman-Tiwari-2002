@@ -29,6 +29,11 @@
   <a href="mailto:anshumant111@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white "target="_blank" /></a>
 </p>
 
+<p align="center">
+  <a href="https://abc/My-Portfolio/"><img src="https://img.shields.io/badge/My_Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white "target="_blank" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://medium.com/@anshumant111"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white " target="_blank" /></a>
+</p>
+
 <h3 align="left">🚀 Languages and Tools:</h3>
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
