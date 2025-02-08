@@ -11,7 +11,7 @@
 - 🧑🏻‍💻 I'm a Software Engineer.
 - 🕸️ Skilled in both frontend and backend development.
 - 😘 Passionate about contributing to and collaborating on open-source projects.
-- 🏎️ Motorsport enthusiast, particularly Formula 1.
+- 🏏 Passionate about cricket, living every match with excitement and energy!🔥
 
 <h3 align="left">💻 Goals for the future:</h3>
 <ul>
